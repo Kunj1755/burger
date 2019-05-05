@@ -16,7 +16,17 @@ const burger = (props) => {
             return [...Array(props.ingredients[igKey])].map((_, i) => {
                 return <BurgerIngredient key={igKey + i} type={igKey} />;
             });
-        });
+        }).reduce((arr, el) => {
+            /*
+            reduce() Flatten the transformedIngredients array. it takes 2 auguments, 
+            1. A function
+            2. Initial reduced value
+            */
+            return arr.concat(el);
+        }, []);
+    if (transformedIngredients.length === 0) {
+        transformedIngredients = <p>Please start adding ingredients!</p>;
+    }
     return (
         // Wrapping in <div> bcz we want to apply styles here
         <div className={classes.Burger}>
