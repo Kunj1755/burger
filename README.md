@@ -66,3 +66,39 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+####################################################################################
+
+8.6. Creating a Layout Component
+8.7. Starting Implementation of The Burger Builder Container
+8.8. Adding a Dynamic Ingredient Component                                        
+8.9. Adding Prop Type Validation
+8.10. Starting the Burger Component
+8.11. Outputting Burger Ingredients Dynamically
+8.12. Calculating the Ingredient Sum Dynamically
+8.13. Adding the Build Control Component
+8.14. Outputting Multiple Build Controls
+8.15. Connecting State to Build Controls
+8.16. Removing Ingredients Safely
+8.17. Displaying and Updating the Burger Price
+8.18. Adding the Order Button
+8.19. Creating the Order Summary Modal
+8.20. Showing & Hiding the Modal (with Animation!)
+8.21. Implementing the Backdrop Component
+8.22. Adding a Custom Button Component
+8.23. Implementing the Button Component
+8.24. Adding the Price to the Order Summary
+8.25. Adding a Toolbar
+8.26. Using a Logo in our Application
+8.27. Adding Reusable Navigation Items
+8.28. Creating a Responsive Sidedrawer
+8.29. Working on Responsive Adjustments
+8.30. More about Responsive Adjustments
+8.31. Reusing the Backdrop
+8.32. Adding a Sidedrawer Toggle Button
+8.33 Adding a Hamburger Icon
+8.34. Improving the App – Introduction
+8.35. Prop Type Validation
+8.36. Improving Performance
+8.37. Using Component Lifecycle Methods
